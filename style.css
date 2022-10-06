@@ -16,12 +16,11 @@
     height: 300px;
     width: 1175px;;
     /*background-color: brown;*/
-    display: flex;
-   
+    display: flex;  
 }
 
 .box{
-    margin: 25px;
+    margin: 20px;
     width: 350px;
     height: 200px;
     background-color: purple;
@@ -30,7 +29,7 @@
 }
 
 .box2{
-    margin: 25px;
+    margin: 20px;
     width: 350px;
     height: 200px;
     background-color: purple;
@@ -39,7 +38,7 @@
 }
 
 .box3{
-    margin: 25px;
+    margin: 20px;
     width: 350px;
     height: 200px;
     background-color: purple;
@@ -52,12 +51,11 @@
     height: 300px;
     width: 1175px;
     /*background-color: lightgreen;*/
-    display: flex;
-   
+    display: flex;  
 }
 
 .box4{
-    margin: 25px;
+    margin: 20px;
     width: 350px;
     height: 200px;
     background-color: purple;
@@ -66,7 +64,7 @@
 }
 
 .box5{
-    margin: 25px;
+    margin: 20px;
     width: 350px;
     height: 200px;
     background-color: purple;
@@ -75,7 +73,7 @@
 }
 
 .box6{
-    margin: 25px;
+    margin: 20px;
     width: 350px;
     height: 200px;
     background-color: purple;
